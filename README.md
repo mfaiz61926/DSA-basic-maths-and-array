@@ -1,1 +1,1 @@
-# DSA-basic-maths-and-array
+# DSA-basics-maths-and-array
